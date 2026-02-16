@@ -1,1 +1,3 @@
 new fir drom dev
+
+aws key = 123
